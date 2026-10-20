@@ -1,4 +1,6 @@
 package co.edu.uniquindio.poo;
-
-public class CategoriaEquipo {
+public enum CategoriaEquipo {
+    PORTATIL,
+    ESCRITORIO,
+    TELEFONO
 }

@@ -1,4 +1,6 @@
 package co.edu.uniquindio.poo;
-
-public class Especialidad {
+public enum Especialidad {
+    COMPUTADORES,
+    DISPOSITIVOS_MOVILES,
+    SOPORTE_GENERAL
 }

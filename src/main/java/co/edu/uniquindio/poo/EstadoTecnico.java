@@ -1,4 +1,5 @@
 package co.edu.uniquindio.poo;
-
-public class EstadoTecnico {
+public enum EstadoTecnico {
+    ACTIVO,
+    INACTIVO
 }

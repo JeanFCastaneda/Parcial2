@@ -1,4 +1,7 @@
 package co.edu.uniquindio.poo;
 
-public class EstadoDetalle {
+public enum EstadoDetalle {
+    PENDIENTE,
+    EN_PROCESO,
+    FINALIZADO
 }
